@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "rengo-common",
+    "rengo-client",
+    "rengo-server",
+]
