@@ -1,9 +1,9 @@
 [submodule "rengo-client"]
 	path = rengo-client
-	url = https://gitlab.com/xrop/rengo-client.git
+	url = https://github.com/nicbk/rengo-client.git
 [submodule "rengo-server"]
 	path = rengo-server
-	url = https://gitlab.com/xrop/rengo-server.git
+	url = https://github.com/nicbk/rengo-server.git
 [submodule "rengo-common"]
 	path = rengo-common
-	url = https://gitlab.com/xrop/rengo-common.git
+	url = https://github.com/nicbk/rengo-common.git
